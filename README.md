@@ -1,3 +1,3 @@
-- 👋 Hi, I’m karthik-ediga
+- 👋 Hi, I’m Karthik Ediga
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web-development and Generative AI
+- 🌱 I’m currently learning web-development and AI Engineering
